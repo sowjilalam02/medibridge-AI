@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 64bd4dbb0c81a00426b7d724bf00dd217ece9722 Hema Supriya <hemasupriyakarri@gmail.com> 1784576053 +0530	commit (initial): Initial commit: MediBridge AI project
+64bd4dbb0c81a00426b7d724bf00dd217ece9722 0000000000000000000000000000000000000000 Hema Supriya <hemasupriyakarri@gmail.com> 1784576066 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 64bd4dbb0c81a00426b7d724bf00dd217ece9722 Hema Supriya <hemasupriyakarri@gmail.com> 1784576066 +0530	Branch: renamed refs/heads/master to refs/heads/main
+64bd4dbb0c81a00426b7d724bf00dd217ece9722 d4b93688929932606e82f5efcee9b96b4267d2d6 Hema Supriya <hemasupriyakarri@gmail.com> 1784577863 +0530	commit: Update README.md with project details and fix ai_recommend.html linting error
+d4b93688929932606e82f5efcee9b96b4267d2d6 32651f3bde75dbb281d3e583e99adf4e64de2f2b Hema Supriya <hemasupriyakarri@gmail.com> 1784578226 +0530	commit: Update requirements.txt with explicitly versioned core Flask dependencies and Gunicorn
+32651f3bde75dbb281d3e583e99adf4e64de2f2b c380bd511d75b66de7940e96760314ccb5c29f5d Hema Supriya <hemasupriyakarri@gmail.com> 1784579613 +0530	commit: Move requirements.txt to root directory for Render deployment
+c380bd511d75b66de7940e96760314ccb5c29f5d 476b6ff43fdc0543dfcf1630faf4816be484bf04 Hema Supriya <hemasupriyakarri@gmail.com> 1784579971 +0530	commit: Add root app.py as WSGI entry point for Render
